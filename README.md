@@ -42,12 +42,13 @@
 <!-- Add your images here -->
 <img src="1.png" alt="Screenshot 1" width="200">
 <img src="2.png" alt="Screenshot 2" width="200">
+<img src="3.png" alt="Screenshot 3" width="200">
 <img src="4.png" alt="Screenshot 4" width="200">
 <img src="5.png" alt="Screenshot 5" width="200">
 <img src="6.png" alt="Screenshot 6" width="200">
-<img src="4.png" alt="Screenshot 7" width="200">
-<img src="5.png" alt="Screenshot 8" width="200">
-<img src="6.png" alt="Screenshot 9" width="200">
+<img src="7.png" alt="Screenshot 7" width="200">
+<img src="8.png" alt="Screenshot 8" width="200">
+<img src="9.png" alt="Screenshot 9" width="200">
 
 </body>
 </html>
